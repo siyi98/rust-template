@@ -1,0 +1,3 @@
+# `@xfun/rs-test-linux-x64-gnu`
+
+This is the **x86_64-unknown-linux-gnu** binary for `@xfun/rs-test`
